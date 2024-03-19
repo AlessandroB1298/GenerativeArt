@@ -3,12 +3,36 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.2",
+    "@react-three/drei": "^9.92.7",
+    "@react-three/fiber": "^8.15.12",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "@tsparticles/engine": "^3.3.0",
+    "@tsparticles/react": "^3.0.0",
+    "@tsparticles/slim": "^3.3.0",
+    "babel-plugin-macros": "^3.1.0",
+    "face-api.js": "^0.22.2",
+    "fs": "^0.0.1-security",
+    "glsl-noise": "^0.0.0",
+    "javascript-color-gradient": "^2.4.4",
+    "ldrs": "^1.0.1",
+    "mathjs": "^12.2.1",
+    "ml5": "^0.12.2",
+    "p5": "^1.9.0",
     "react": "^18.2.0",
+    "react-color": "^2.19.3",
     "react-dom": "^18.2.0",
+    "react-p5": "^1.4.1",
+    "react-p5-wrapper": "^4.1.2",
+    "react-router-dom": "^6.21.1",
     "react-scripts": "5.0.1",
+    "react-three-fiber": "^6.0.13",
+    "three": "^0.160.0",
+    "toxiclibsjs": "^0.3.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +58,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "babel-plugin-glsl": "^1.0.0",
+    "file-loader": "^6.2.0",
+    "raw-loader": "^4.0.2",
+    "vite": "^5.0.10"
   }
 }

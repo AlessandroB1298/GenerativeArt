@@ -1,6 +1,6 @@
 # This is my generative art project
 
-## Mostly used to test out different mathmatical algorithms such as the julia set, mandlebrut set, and some face detection artwork.
+## Mostly used to test out different mathmatical algorithms.
 
 ## Still working on some of the programs such as the face detection art as well as the julia set.
 
